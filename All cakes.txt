@@ -1,0 +1,1534 @@
+--------------------------Blackforest-----------------------------------
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>pineapple cake</title>
+    <link
+    href="https://fonts.googleapis.com/css2?family=Dancing+Script:wght@500&family=EB+Garamond&family=Lobster&display=swap"
+    rel="stylesheet">
+    <style>
+
+        /* .aboutus{
+            background-color: rgb(240, 199, 240);   
+            
+        } */
+        .about {
+            display: flex;
+            background-color: rgb(248, 184, 194);
+            
+            justify-content: space-evenly;
+
+            /* background: url(https://media.istockphoto.com/photos/baking-ingredients-and-utensils-on-concrete-background-picture-id1128813367)no-repeat center center/cover; */
+        }
+
+        .flexcol {
+            display: flex;
+            flex-direction: column;
+        }
+
+        .cakesimg {
+            margin: 4rem 4rem;
+            height: 21rem;
+            border-radius: 10px;
+            width: 27rem;
+            padding: 0px;
+        }
+
+        .h-primary {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            font-size: 4rem;
+            font-family: 'Dancing Script', cursive;
+            /* margin: 56px 10px 34px 99px; */
+        }
+
+        .h-secondary {
+            margin: 24px 10px 14px 159px;
+            font-size: 2rem;
+
+        }
+
+        .cakedetails {
+
+            font-size: 1.4rem;
+            margin: 0px 0px 0px 134px;
+            font-family: 'EB Garamond', serif;
+
+
+        }
+
+        .addtocart {
+            
+            height: 2.7rem;
+            width: 10rem;
+            margin: 25px 0px 10px 204px;
+            font-size: 1rem;
+            border-radius: 40px;
+            font-weight: 600;
+        }
+        .addtocart:hover{
+            background-color: rgb(122, 10, 57);
+            color: white;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="aboutus" id="about us">
+
+        <div class="h-primary ">
+            <h1 class="h-primary">Blackforest Cake: 85$</h1>
+        </div>
+        <main class="about">
+
+            <img src="https://static01.nyt.com/images/2020/01/15/dining/ss-black-forest-cake/merlin_165684495_6689b1a0-42b5-4228-b871-37bb983d797e-articleLarge.jpg"
+                    alt="" class="cakesimg">
+            <div class="flexcol">
+                <div class="description">
+                    <h1 class="h-primary">Product Details</h1>
+                    <!-- <h2 class="h-secondary">Product Details</h2> -->
+
+
+                    <ul class="cakedetails">
+                        <li>Cake Flavour- Chocolate</li>
+                        <li>Type of Cake- Blackforest cake</li>
+                        <li>Shape- Round</li>
+                        <li>Weight- Half Kg </li>
+                        <li> Serves- 4-6 People</li>
+                        <li>Size- 6 Inches in Diameter</li>
+                    </ul>
+
+                    <a href="cart.html">
+                        <button class="addtocart">
+                            ADD TO CART
+                        </button>
+                        </a>
+
+                </div>
+                <div>Please Note:
+
+                    
+                    This cake is hand delivered in a good quality cardboard box
+                
+                    Country of Origin: India</div>
+            </div>
+
+
+        </main>
+    </div>
+</body>
+
+</html>
+
+-----------------------------------------Cheesecake---------------------------------------------------
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>pineapple cake</title>
+    <link
+    href="https://fonts.googleapis.com/css2?family=Dancing+Script:wght@500&family=EB+Garamond&family=Lobster&display=swap"
+    rel="stylesheet">
+    <style>
+
+        /* .aboutus{
+            background-color: rgb(240, 199, 240);   
+            
+        } */
+        .about {
+            display: flex;
+            background-color: rgb(248, 184, 194);
+            
+            justify-content: space-evenly;
+
+            /* background: url(https://media.istockphoto.com/photos/baking-ingredients-and-utensils-on-concrete-background-picture-id1128813367)no-repeat center center/cover; */
+        }
+
+        .flexcol {
+            display: flex;
+            flex-direction: column;
+        }
+
+        .cakesimg {
+            margin: 4rem 4rem;
+            height: 21rem;
+            border-radius: 10px;
+            width: 27rem;
+            padding: 0px;
+        }
+
+        .h-primary {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            font-size: 4rem;
+            font-family: 'Dancing Script', cursive;
+            /* margin: 56px 10px 34px 99px; */
+        }
+
+        .h-secondary {
+            margin: 24px 10px 14px 159px;
+            font-size: 2rem;
+
+        }
+
+        .cakedetails {
+
+            font-size: 1.4rem;
+            margin: 0px 0px 0px 134px;
+            font-family: 'EB Garamond', serif;
+
+
+        }
+
+        .addtocart {
+            
+            height: 2.7rem;
+            width: 10rem;
+            margin: 25px 0px 10px 204px;
+            font-size: 1rem;
+            border-radius: 40px;
+            font-weight: 600;
+            
+        }
+        .addtocart:hover{
+            background-color: rgb(122, 10, 57);
+            color: white;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="aboutus" id="about us">
+
+        <div class="h-primary ">
+            <h1 class="h-primary">Cheese Cake: 85$</h1>
+        </div>
+        <main class="about">
+
+            <img src="https://realfood.tesco.com/media/images/Berry-cheesecakel-558243b3-cc64-45ad-b13e-3bae304f8893-0-1400x919.jpg"
+                alt="" class="cakesimg">
+            <div class="flexcol">
+                <div class="description">
+                    <h1 class="h-primary">Product Details</h1>
+                    <!-- <h2 class="h-secondary">Product Details</h2> -->
+
+
+                    <ul class="cakedetails">
+                        <li>Cake Flavour- Oreo</li>
+                        <li>Type of Cake- Cheesecake</li>
+                        <li>Shape- Round</li>
+                        <li>Weight- Half Kg </li>
+                        <li> Serves- 4-6 People</li>
+                        <li>Size- 6 Inches in Diameter</li>
+                    </ul>
+
+                    <a href="cart.html">
+                    <button class="addtocart">
+                        ADD TO CART
+                    </button>
+                    </a>
+
+                </div>
+                <div>Please Note:
+
+                    
+                    This cake is hand delivered in a good quality cardboard box
+                
+                    Country of Origin: India</div>
+            </div>
+
+
+        </main>
+    </div>
+</body>
+
+</html>
+
+----------------------------------------------Chocolatemud cake----------------------------------------------
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>cheesecake</title>
+    <link
+    href="https://fonts.googleapis.com/css2?family=Dancing+Script:wght@500&family=EB+Garamond&family=Lobster&display=swap"
+    rel="stylesheet">
+    <style>
+
+        /* .aboutus{
+            background-color: rgb(240, 199, 240);   
+            
+        } */
+        .about {
+            display: flex;
+            background-color: rgb(248, 184, 194);
+            
+            justify-content: space-evenly;
+
+            /* background: url(https://media.istockphoto.com/photos/baking-ingredients-and-utensils-on-concrete-background-picture-id1128813367)no-repeat center center/cover; */
+        }
+
+        .flexcol {
+            display: flex;
+            flex-direction: column;
+        }
+
+        .cakesimg {
+            margin: 4rem 4rem;
+            height: 21rem;
+            border-radius: 10px;
+            width: 27rem;
+            padding: 0px;
+        }
+
+        .h-primary {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            font-size: 4rem;
+            font-family: 'Dancing Script', cursive;
+            /* margin: 56px 10px 34px 99px; */
+        }
+
+        .h-secondary {
+            margin: 24px 10px 14px 159px;
+            font-size: 2rem;
+
+        }
+
+        .cakedetails {
+
+            font-size: 1.4rem;
+            margin: 0px 0px 0px 134px;
+            font-family: 'EB Garamond', serif;
+
+
+        }
+
+        .addtocart {
+            
+            height: 2.7rem;
+            width: 10rem;
+            margin: 25px 0px 10px 204px;
+            font-size: 1rem;
+            border-radius: 40px;
+            font-weight: 600;
+        }
+        .addtocart:hover{
+            background-color: rgb(122, 10, 57);
+            color: white;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="aboutus" id="about us">
+
+        <div class="h-primary ">
+            <h1 class="h-primary">Chocolate Mud Cake: 85$</h1>
+        </div>
+        <main class="about">
+
+            <img src="https://s1.1zoom.me/big0/366/Sweets_Cakes_Chocolate_Cookies_Black_background_537922_1288x1024.jpg"
+                alt="" class="cakesimg">
+            <div class="flexcol">
+                <div class="description">
+                    <h1 class="h-primary">Product Details</h1>
+                    <!-- <h2 class="h-secondary">Product Details</h2> -->
+
+
+                    <ul class="cakedetails">
+                        <li>Cake Flavour- Chocolate</li>
+                        <li>Type of Cake- Chocolatemud cake</li>
+                        <li>Shape- Round</li>
+                        <li>Weight- Half Kg </li>
+                        <li> Serves- 4-6 People</li>
+                        <li>Size- 6 Inches in Diameter</li>
+                    </ul>
+
+                    <a href="cart.html">
+                    <button class="addtocart">
+                        ADD TO CART
+                    </button>
+                    </a>
+
+                </div>
+                <div>Please Note:
+
+                    
+                    This cake is hand delivered in a good quality cardboard box
+                
+                    Country of Origin: India</div>
+            </div>
+
+
+        </main>
+    </div>
+</body>
+
+</html>
+
+-------------------------------------------coffeecake------------------------------------------------------
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>pineapple cake</title>
+    <link
+    href="https://fonts.googleapis.com/css2?family=Dancing+Script:wght@500&family=EB+Garamond&family=Lobster&display=swap"
+    rel="stylesheet">
+    <style>
+
+        /* .aboutus{
+            background-color: rgb(240, 199, 240);   
+            
+        } */
+        .about {
+            display: flex;
+            background-color: rgb(248, 184, 194);
+            
+            justify-content: space-evenly;
+
+            /* background: url(https://media.istockphoto.com/photos/baking-ingredients-and-utensils-on-concrete-background-picture-id1128813367)no-repeat center center/cover; */
+        }
+
+        .flexcol {
+            display: flex;
+            flex-direction: column;
+        }
+
+        .cakesimg {
+            margin: 4rem 4rem;
+            height: 21rem;
+            border-radius: 10px;
+            width: 27rem;
+            padding: 0px;
+        }
+
+        .h-primary {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            font-size: 4rem;
+            font-family: 'Dancing Script', cursive;
+            /* margin: 56px 10px 34px 99px; */
+        }
+
+        .h-secondary {
+            margin: 24px 10px 14px 159px;
+            font-size: 2rem;
+
+        }
+
+        .cakedetails {
+
+            font-size: 1.4rem;
+            margin: 0px 0px 0px 134px;
+            font-family: 'EB Garamond', serif;
+
+
+        }
+
+        .addtocart {
+            
+            height: 2.7rem;
+            width: 10rem;
+            margin: 25px 0px 10px 204px;
+            font-size: 1rem;
+            border-radius: 40px;
+            font-weight: 600;
+        }
+        .addtocart:hover{
+            background-color: rgb(122, 10, 57);
+            color: white;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="aboutus" id="about us">
+
+        <div class="h-primary ">
+            <h1 class="h-primary">Coffee Cake: 140$</h1>
+        </div>
+        <main class="about">
+
+            <img src="https://www.oetker.co.uk/Recipe/Recipes/oetker.co.uk/uk-en/cakes/image-thumb__120129__RecipeDetailsLightBox/gf-coffee-and-walnut-cake.jpg"
+                    alt="" class="cakesimg">
+            <div class="flexcol">
+                <div class="description">
+                    <h1 class="h-primary">Product Details</h1>
+                    <!-- <h2 class="h-secondary">Product Details</h2> -->
+
+
+                    <ul class="cakedetails">
+                        <li>Cake Flavour- Coffee</li>
+                        <li>Type of Cake- Coffee Cake: 140$</li>
+                        <li>Shape- Round</li>
+                        <li>Weight- Half Kg </li>
+                        <li> Serves- 4-6 People</li>
+                        <li>Size- 6 Inches in Diameter</li>
+                    </ul>
+
+                    <a href="cart.html">
+                    <button class="addtocart">
+                        ADD TO CART
+                    </button>
+                    </a>
+
+                </div>
+                <div>Please Note:
+
+                    
+                    This cake is hand delivered in a good quality cardboard box
+                
+                    Country of Origin: India</div>
+            </div>
+
+
+        </main>
+    </div>
+</body>
+
+</html>
+
+-------------------------------------------------Macaroon cake------------------------------------------------
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>pineapple cake</title>
+    <link
+    href="https://fonts.googleapis.com/css2?family=Dancing+Script:wght@500&family=EB+Garamond&family=Lobster&display=swap"
+    rel="stylesheet">
+    <style>
+
+        /* .aboutus{
+            background-color: rgb(240, 199, 240);   
+            
+        } */
+        .about {
+            display: flex;
+            background-color: rgb(248, 184, 194);
+            
+            justify-content: space-evenly;
+
+            /* background: url(https://media.istockphoto.com/photos/baking-ingredients-and-utensils-on-concrete-background-picture-id1128813367)no-repeat center center/cover; */
+        }
+
+        .flexcol {
+            display: flex;
+            flex-direction: column;
+        }
+
+        .cakesimg {
+            margin: 4rem 4rem;
+            height: 21rem;
+            border-radius: 10px;
+            width: 27rem;
+            padding: 0px;
+        }
+
+        .h-primary {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            font-size: 4rem;
+            font-family: 'Dancing Script', cursive;
+            /* margin: 56px 10px 34px 99px; */
+        }
+
+        .h-secondary {
+            margin: 24px 10px 14px 159px;
+            font-size: 2rem;
+
+        }
+
+        .cakedetails {
+
+            font-size: 1.4rem;
+            margin: 0px 0px 0px 134px;
+            font-family: 'EB Garamond', serif;
+
+
+        }
+
+        .addtocart {
+            
+            height: 2.7rem;
+            width: 10rem;
+            margin: 25px 0px 10px 204px;
+            font-size: 1rem;
+            border-radius: 40px;
+            font-weight: 600;
+        }
+        .addtocart:hover{
+            background-color: rgb(122, 10, 57);
+            color: white;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="aboutus" id="about us">
+
+        <div class="h-primary ">
+            <h1 class="h-primary"> Macarooncake: 150$</h1>
+        </div>
+        <main class="about">
+
+            <img  src="https://cdn.shopify.com/s/files/1/0038/7579/9155/products/15_6bc1a778-c92e-4e15-bf29-2cb5924d7d51.jpg?v=1568243109"
+                    alt="" class="cakesimg">
+            <div class="flexcol">
+                <div class="description">
+                    <h1 class="h-primary">Product Details</h1>
+                    <!-- <h2 class="h-secondary">Product Details</h2> -->
+
+
+                    <ul class="cakedetails">
+                        <li>Cake Flavour- Blueberry</li>
+                        <li>Type of Cake- Macaroon cake</li>
+                        <li>Shape- Round</li>
+                        <li>Weight- Half Kg </li>
+                        <li> Serves- 4-6 People</li>
+                        <li>Size- 6 Inches in Diameter</li>
+                    </ul>
+
+                    <a href="cart.html">
+                    <button class="addtocart">
+                        ADD TO CART
+                    </button>
+                    </a>
+
+                </div>
+                <div>Please Note:
+
+                    
+                    This cake is hand delivered in a good quality cardboard box
+                
+                    Country of Origin: India</div>
+            </div>
+
+
+        </main>
+    </div>
+</body>
+
+</html>
+
+---------------------------------------------Pineapple cake-------------------------------------------------------
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>pineapple cake</title>
+    <link
+    href="https://fonts.googleapis.com/css2?family=Dancing+Script:wght@500&family=EB+Garamond&family=Lobster&display=swap"
+    rel="stylesheet">
+    <style>
+
+        /* .aboutus{
+            background-color: rgb(240, 199, 240);   
+            
+        } */
+        .about {
+            display: flex;
+            background-color: rgb(248, 184, 194);
+            
+            justify-content: space-evenly;
+
+            /* background: url(https://media.istockphoto.com/photos/baking-ingredients-and-utensils-on-concrete-background-picture-id1128813367)no-repeat center center/cover; */
+        }
+
+        .flexcol {
+            display: flex;
+            flex-direction: column;
+        }
+
+        .cakesimg {
+            margin: 4rem 4rem;
+            height: 21rem;
+            border-radius: 10px;
+            width: 27rem;
+            padding: 0px;
+        }
+
+        .h-primary {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            font-size: 4rem;
+            font-family: 'Dancing Script', cursive;
+            /* margin: 56px 10px 34px 99px; */
+        }
+
+        .h-secondary {
+            margin: 24px 10px 14px 159px;
+            font-size: 2rem;
+
+        }
+
+        .cakedetails {
+
+            font-size: 1.4rem;
+            margin: 0px 0px 0px 134px;
+            font-family: 'EB Garamond', serif;
+
+
+        }
+
+        .addtocart {
+            
+            height: 2.7rem;
+            width: 10rem;
+            margin: 25px 0px 10px 204px;
+            font-size: 1rem;
+            border-radius: 40px;
+            font-weight: 600;
+        }
+        .addtocart:hover{
+            background-color: rgb(122, 10, 57);
+            color: white;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="aboutus" id="about us">
+
+        <div class="h-primary ">
+            <h1 class="h-primary">Pineapple Cake: 80$</h1>
+        </div>
+        <main class="about">
+
+            <img  src="https://www.homecookingadventure.com/images/recipes/pineapple_cake_main.jpg" alt="" class="cakesimg">
+            <div class="flexcol">
+                <div class="description">
+                    <h1 class="h-primary">Product Details</h1>
+                    <!-- <h2 class="h-secondary">Product Details</h2> -->
+
+
+                    <ul class="cakedetails">
+                        <li>Cake Flavour- Pineapple</li>
+                        <li>Type of Cake- Pineapple Cake</li>
+                        <li>Shape- Round</li>
+                        <li>Weight- Half Kg </li>
+                        <li> Serves- 4-6 People</li>
+                        <li>Size- 6 Inches in Diameter</li>
+                    </ul>
+
+                    <a href="cart.html">
+                    <button class="addtocart">
+                        ADD TO CART
+                    </button>
+                    </a>
+
+                </div>
+                <div>Please Note:
+
+                    
+                    This cake is hand delivered in a good quality cardboard box
+                
+                    Country of Origin: India</div>
+            </div>
+
+
+        </main>
+    </div>
+</body>
+
+</html>
+
+-------------------------------------------------Rainbow cake---------------------------------------------
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>pineapple cake</title>
+    <link
+    href="https://fonts.googleapis.com/css2?family=Dancing+Script:wght@500&family=EB+Garamond&family=Lobster&display=swap"
+    rel="stylesheet">
+    <style>
+
+        /* .aboutus{
+            background-color: rgb(240, 199, 240);   
+            
+        } */
+        .about {
+            display: flex;
+            background-color: rgb(248, 184, 194);
+            
+            justify-content: space-evenly;
+
+            /* background: url(https://media.istockphoto.com/photos/baking-ingredients-and-utensils-on-concrete-background-picture-id1128813367)no-repeat center center/cover; */
+        }
+
+        .flexcol {
+            display: flex;
+            flex-direction: column;
+        }
+
+        .cakesimg {
+            margin: 4rem 4rem;
+            height: 21rem;
+            border-radius: 10px;
+            width: 27rem;
+            padding: 0px;
+        }
+
+        .h-primary {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            font-size: 4rem;
+            font-family: 'Dancing Script', cursive;
+            /* margin: 56px 10px 34px 99px; */
+        }
+
+        .h-secondary {
+            margin: 24px 10px 14px 159px;
+            font-size: 2rem;
+
+        }
+
+        .cakedetails {
+
+            font-size: 1.4rem;
+            margin: 0px 0px 0px 134px;
+            font-family: 'EB Garamond', serif;
+
+
+        }
+
+        .addtocart {
+            
+            height: 2.7rem;
+            width: 10rem;
+            margin: 25px 0px 10px 204px;
+            font-size: 1rem;
+            border-radius: 40px;
+            font-weight: 600;
+        }
+        .addtocart:hover{
+            background-color: rgb(122, 10, 57);
+            color: white;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="aboutus" id="about us">
+
+        <div class="h-primary ">
+            <h1 class="h-primary">Rainbow Cake: 200$</h1>
+        </div>
+        <main class="about">
+
+            <img src="https://qvc.scene7.com/is/image/QVC/m/24/m123724.001?$aempdlarge$" alt="" class="cakesimg">
+            <div class="flexcol">
+                <div class="description">
+                    <h1 class="h-primary">Product Details</h1>
+                    <!-- <h2 class="h-secondary">Product Details</h2> -->
+
+
+                    <ul class="cakedetails">
+                        <li>Cake Flavour- Vanilla</li>
+                        <li>Type of Cake- Rainbow Cake</li>
+                        <li>Shape- Round</li>
+                        <li>Weight- Half Kg </li>
+                        <li> Serves- 4-6 People</li>
+                        <li>Size- 6 Inches in Diameter</li>
+                    </ul>
+
+                    <a href="cart.html">
+                    <button class="addtocart">
+                        ADD TO CART
+                    </button>
+                    </a>
+
+                </div>
+                <div>Please Note:
+
+                    
+                    This cake is hand delivered in a good quality cardboard box
+                
+                    Country of Origin: India</div>
+            </div>
+
+
+        </main>
+    </div>
+</body>
+
+</html>
+
+----------------------------------------------------------Redvelvet cake-------------------------------------------------
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>pineapple cake</title>
+    <link
+    href="https://fonts.googleapis.com/css2?family=Dancing+Script:wght@500&family=EB+Garamond&family=Lobster&display=swap"
+    rel="stylesheet">
+    <style>
+
+        /* .aboutus{
+            background-color: rgb(240, 199, 240);   
+            
+        } */
+        .about {
+            display: flex;
+            background-color: rgb(248, 184, 194);
+            
+            justify-content: space-evenly;
+
+            /* background: url(https://media.istockphoto.com/photos/baking-ingredients-and-utensils-on-concrete-background-picture-id1128813367)no-repeat center center/cover; */
+        }
+
+        .flexcol {
+            display: flex;
+            flex-direction: column;
+        }
+
+        .cakesimg {
+            margin: 4rem 4rem;
+            height: 21rem;
+            border-radius: 10px;
+            width: 27rem;
+            padding: 0px;
+        }
+
+        .h-primary {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            font-size: 4rem;
+            font-family: 'Dancing Script', cursive;
+            /* margin: 56px 10px 34px 99px; */
+        }
+
+        .h-secondary {
+            margin: 24px 10px 14px 159px;
+            font-size: 2rem;
+
+        }
+
+        .cakedetails {
+
+            font-size: 1.4rem;
+            margin: 0px 0px 0px 134px;
+            font-family: 'EB Garamond', serif;
+
+
+        }
+
+        .addtocart {
+            
+            height: 2.7rem;
+            width: 10rem;
+            margin: 25px 0px 10px 204px;
+            font-size: 1rem;
+            border-radius: 40px;
+            font-weight: 600;
+        }
+        .addtocart:hover{
+            background-color: rgb(122, 10, 57);
+            color: white;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="aboutus" id="about us">
+
+        <div class="h-primary ">
+            <h1 class="h-primary">Red-velvet Cake: 90$</h1>
+        </div>
+        <main class="about">
+
+            <img  src="https://thumbs.dreamstime.com/b/red-velvet-cake-dark-background-red-velvet-cake-dark-background-red-velvet-cake-white-butter-cream-decorated-179840886.jpg"
+                    alt="" class="cakesimg">
+            <div class="flexcol">
+                <div class="description">
+                    <h1 class="h-primary">Product Details</h1>
+                    <!-- <h2 class="h-secondary">Product Details</h2> -->
+
+
+                    <ul class="cakedetails">
+                        <li>Cake Flavour- Redvelvet</li>
+                        <li>Type of Cake- Redvelvet cake</li>
+                        <li>Shape- Round</li>
+                        <li>Weight- Half Kg </li>
+                        <li> Serves- 4-6 People</li>
+                        <li>Size- 6 Inches in Diameter</li>
+                    </ul>
+
+                    <a href="cart.html">
+                    <button class="addtocart">
+                        ADD TO CART
+                    </button>
+                    </a>
+
+                </div>
+                <div>Please Note:
+
+                    
+                    This cake is hand delivered in a good quality cardboard box
+                
+                    Country of Origin: India</div>
+            </div>
+
+
+        </main>
+    </div>
+</body>
+
+</html>
+
+---------------------------------------------------------------------Vanilla cake--------------------------------------------------------
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>pineapple cake</title>
+    <link
+    href="https://fonts.googleapis.com/css2?family=Dancing+Script:wght@500&family=EB+Garamond&family=Lobster&display=swap"
+    rel="stylesheet">
+    <style>
+
+        /* .aboutus{
+            background-color: rgb(240, 199, 240);   
+            
+        } */
+        .about {
+            display: flex;
+            background-color: rgb(248, 184, 194);
+            
+            justify-content: space-evenly;
+
+            /* background: url(https://media.istockphoto.com/photos/baking-ingredients-and-utensils-on-concrete-background-picture-id1128813367)no-repeat center center/cover; */
+        }
+
+        .flexcol {
+            display: flex;
+            flex-direction: column;
+        }
+
+        .cakesimg {
+            margin: 4rem 4rem;
+            height: 21rem;
+            border-radius: 10px;
+            width: 27rem;
+            padding: 0px;
+        }
+
+        .h-primary {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            font-size: 4rem;
+            font-family: 'Dancing Script', cursive;
+            /* margin: 56px 10px 34px 99px; */
+        }
+
+        .h-secondary {
+            margin: 24px 10px 14px 159px;
+            font-size: 2rem;
+
+        }
+
+        .cakedetails {
+
+            font-size: 1.4rem;
+            margin: 0px 0px 0px 134px;
+            font-family: 'EB Garamond', serif;
+
+
+        }
+
+        .addtocart {
+            
+            height: 2.7rem;
+            width: 10rem;
+            margin: 25px 0px 10px 204px;
+            font-size: 1rem;
+            border-radius: 40px;
+            font-weight: 600;
+        }
+        .addtocart:hover{
+            background-color: rgb(122, 10, 57);
+            color: white;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="aboutus" id="about us">
+
+        <div class="h-primary ">
+            <h1 class="h-primary">Vanilla Cake: 90$</h1>
+        </div>
+        <main class="about">
+
+            <img src="https://www.bakefromscratch.com/wp-content/uploads/2018/11/vanilla-buttermilk-for-web-696x557.jpg"
+                    alt="" class="cakesimg">
+            <div class="flexcol">
+                <div class="description">
+                    <h1 class="h-primary">Product Details</h1>
+                    <!-- <h2 class="h-secondary">Product Details</h2> -->
+
+
+                    <ul class="cakedetails">
+                        <li>Cake Flavour- Vanilla </li>
+                        <li>Type of Cake- Vanilla Cake</li>
+                        <li>Shape- Round</li>
+                        <li>Weight- Half Kg </li>
+                        <li> Serves- 4-6 People</li>
+                        <li>Size- 6 Inches in Diameter</li>
+                    </ul>
+
+                    <a href="cart.html">
+                    <button class="addtocart">
+                        ADD TO CART
+                    </button>
+                    </a>
+
+                </div>
+                <div>Please Note:
+
+                    
+                    This cake is hand delivered in a good quality cardboard box
+                
+                    Country of Origin: India</div>
+            </div>
+
+
+        </main>
+    </div>
+</body>
+
+</html>
+
+----------------------------------------------------Strawberry cc----------------------------------------------------
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>pineapple cake</title>
+    <link
+    href="https://fonts.googleapis.com/css2?family=Dancing+Script:wght@500&family=EB+Garamond&family=Lobster&display=swap"
+    rel="stylesheet">
+    <style>
+
+        /* .aboutus{
+            background-color: rgb(240, 199, 240);   
+            
+        } */
+        .about {
+            display: flex;
+            background-color: rgb(248, 184, 194);
+            
+            justify-content: space-evenly;
+
+            /* background: url(https://media.istockphoto.com/photos/baking-ingredients-and-utensils-on-concrete-background-picture-id1128813367)no-repeat center center/cover; */
+        }
+
+        .flexcol {
+            display: flex;
+            flex-direction: column;
+        }
+
+        .cakesimg {
+            margin: 4rem 4rem;
+            height: 21rem;
+            border-radius: 10px;
+            width: 27rem;
+            padding: 0px;
+        }
+
+        .h-primary {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            font-size: 4rem;
+            font-family: 'Dancing Script', cursive;
+            /* margin: 56px 10px 34px 99px; */
+        }
+
+        .h-secondary {
+            margin: 24px 10px 14px 159px;
+            font-size: 2rem;
+
+        }
+
+        .cakedetails {
+
+            font-size: 1.4rem;
+            margin: 0px 0px 0px 134px;
+            font-family: 'EB Garamond', serif;
+
+
+        }
+
+        .addtocart {
+            
+            height: 2.7rem;
+            width: 10rem;
+            margin: 25px 0px 10px 204px;
+            font-size: 1rem;
+            border-radius: 40px;
+            font-weight: 600;
+            
+        }
+        .addtocart:hover{
+            background-color: rgb(122, 10, 57);
+            color: white;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="aboutus" id="about us">
+
+        <div class="h-primary ">
+            <h1 class="h-primary">Strawberry CupCake: 170$</h1>
+        </div>
+        <main class="about">
+
+            <img src="https://www.rainbownourishments.com/wp-content/uploads/2021/02/vegan-strawberry-cupcakes-1.-500x500.jpg"
+                alt="" class="cakesimg">
+            <div class="flexcol">
+                <div class="description">
+                    <h1 class="h-primary">Product Details</h1>
+                    <!-- <h2 class="h-secondary">Product Details</h2> -->
+
+
+                    <ul class="cakedetails">
+                        <li>Cake Flavour- Strawberry</li>
+                        <li>Type of Cake- Cup Cake</li>
+                        <li>Shape- Round</li>
+                        <li>Quantity- 6 pc </li>
+                        <li>Size- 2.5 Inches in Diameter</li>
+                    </ul>
+
+                    <a href="cart.html">
+                    <button class="addtocart">
+                        ADD TO CART
+                    </button>
+                    </a>
+
+                </div>
+                <div>Please Note:
+
+                    
+                    This cake is hand delivered in a good quality cardboard box
+                
+                    Country of Origin: India</div>
+            </div>
+
+
+        </main>
+    </div>
+</body>
+
+</html>
+
+------------------------------------------------Vanilla cc-----------------------------------------------------
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>pineapple cake</title>
+    <link
+    href="https://fonts.googleapis.com/css2?family=Dancing+Script:wght@500&family=EB+Garamond&family=Lobster&display=swap"
+    rel="stylesheet">
+    <style>
+
+        /* .aboutus{
+            background-color: rgb(240, 199, 240);   
+            
+        } */
+        .about {
+            display: flex;
+            background-color: rgb(248, 184, 194);
+            
+            justify-content: space-evenly;
+
+            /* background: url(https://media.istockphoto.com/photos/baking-ingredients-and-utensils-on-concrete-background-picture-id1128813367)no-repeat center center/cover; */
+        }
+
+        .flexcol {
+            display: flex;
+            flex-direction: column;
+        }
+
+        .cakesimg {
+            margin: 4rem 4rem;
+            height: 21rem;
+            border-radius: 10px;
+            width: 27rem;
+            padding: 0px;
+        }
+
+        .h-primary {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            font-size: 4rem;
+            font-family: 'Dancing Script', cursive;
+            /* margin: 56px 10px 34px 99px; */
+        }
+
+        .h-secondary {
+            margin: 24px 10px 14px 159px;
+            font-size: 2rem;
+
+        }
+
+        .cakedetails {
+
+            font-size: 1.4rem;
+            margin: 0px 0px 0px 134px;
+            font-family: 'EB Garamond', serif;
+
+
+        }
+
+        .addtocart {
+            
+            height: 2.7rem;
+            width: 10rem;
+            margin: 25px 0px 10px 204px;
+            font-size: 1rem;
+            border-radius: 40px;
+            font-weight: 600;
+            
+        }
+        .addtocart:hover{
+            background-color: rgb(122, 10, 57);
+            color: white;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="aboutus" id="about us">
+
+        <div class="h-primary ">
+            <h1 class="h-primary">Vanilla CupCake: 140$</h1>
+        </div>
+        <main class="about">
+
+            <img src="http://www.howsweeteats.com/wp-content/uploads/2011/03/vcupcakes-4.jpg"
+                alt="" class="cakesimg">
+            <div class="flexcol">
+                <div class="description">
+                    <h1 class="h-primary">Product Details</h1>
+                    <!-- <h2 class="h-secondary">Product Details</h2> -->
+
+
+                    <ul class="cakedetails">
+                        <li>Cake Flavour- Vanilla</li>
+                        <li>Type of Cake- Cup Cake</li>
+                        <li>Shape- Round</li>
+                        <li>Quantity- 6 pc </li>
+                        <li>Size- 2.5 Inches in Diameter</li>
+                    </ul>
+
+                    <a href="cart.html">
+                    <button class="addtocart">
+                        ADD TO CART
+                    </button>
+                    </a>
+
+                </div>
+                <div>Please Note:
+
+                    
+                    This cake is hand delivered in a good quality cardboard box
+                
+                    Country of Origin: India</div>
+            </div>
+
+
+        </main>
+    </div>
+</body>
+
+</html>
+
+--------------------------------------------------Chocolate cc-------------------------------------------
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>pineapple cake</title>
+    <link
+    href="https://fonts.googleapis.com/css2?family=Dancing+Script:wght@500&family=EB+Garamond&family=Lobster&display=swap"
+    rel="stylesheet">
+    <style>
+
+        /* .aboutus{
+            background-color: rgb(240, 199, 240);   
+            
+        } */
+        .about {
+            display: flex;
+            background-color: rgb(248, 184, 194);
+            
+            justify-content: space-evenly;
+
+            /* background: url(https://media.istockphoto.com/photos/baking-ingredients-and-utensils-on-concrete-background-picture-id1128813367)no-repeat center center/cover; */
+        }
+
+        .flexcol {
+            display: flex;
+            flex-direction: column;
+        }
+
+        .cakesimg {
+            margin: 4rem 4rem;
+            height: 21rem;
+            border-radius: 10px;
+            width: 27rem;
+            padding: 0px;
+        }
+
+        .h-primary {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            font-size: 4rem;
+            font-family: 'Dancing Script', cursive;
+            /* margin: 56px 10px 34px 99px; */
+        }
+
+        .h-secondary {
+            margin: 24px 10px 14px 159px;
+            font-size: 2rem;
+
+        }
+
+        .cakedetails {
+
+            font-size: 1.4rem;
+            margin: 0px 0px 0px 134px;
+            font-family: 'EB Garamond', serif;
+
+
+        }
+
+        .addtocart {
+            
+            height: 2.7rem;
+            width: 10rem;
+            margin: 25px 0px 10px 204px;
+            font-size: 1rem;
+            border-radius: 40px;
+            font-weight: 600;
+            
+        }
+        .addtocart:hover{
+            background-color: rgb(122, 10, 57);
+            color: white;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="aboutus" id="about us">
+
+        <div class="h-primary ">
+            <h1 class="h-primary">Chocolate CupCake: 180$</h1>
+        </div>
+        <main class="about">
+
+            <img src="https://www.crowdedkitchen.com/wp-content/uploads/2021/03/chocolate-cupcakes-5.jpg"
+                alt="" class="cakesimg">
+            <div class="flexcol">
+                <div class="description">
+                    <h1 class="h-primary">Product Details</h1>
+                    <!-- <h2 class="h-secondary">Product Details</h2> -->
+
+
+                    <ul class="cakedetails">
+                        <li>Cake Flavour- Chocolate</li>
+                        <li>Type of Cake- Cup Cake</li>
+                        <li>Shape- Round</li>
+                        <li>Quantity- 6 pc </li>
+                        <li>Size- 2.5 Inches in Diameter</li>
+                    </ul>
+
+                    <a href="cart.html">
+                    <button class="addtocart">
+                        ADD TO CART
+                    </button>
+                    </a>
+
+                </div>
+                <div>Please Note:
+
+                    
+                    This cake is hand delivered in a good quality cardboard box
+                
+                    Country of Origin: India</div>
+            </div>
+
+
+        </main>
+    </div>
+</body>
+
+</html>

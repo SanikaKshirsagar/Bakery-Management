@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Shoping cart</title>
+    <script nomodule src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.js"></script>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <div class="overlay"></div>
+        <nav>
+            <h2>SHOP</h2>
+            <ul>
+                <li><a href="Bakery management system.html">Home</a></li>
+                <li><a href="#"></a></li>
+                <li class="cart">
+                    <a href="cart.html">
+                        <ion-icon name="cart"></ion-icon><span>0</span>
+                    </a>
+                </li>
+            </ul>
+        </nav>
+    </header>
+     
+    <div class="products-container">
+        <div class="product-header">
+            <h5 class="procuct-title">PRODUCT</h5>
+            <!---<h5 class="price">PRICE</h5>
+            <h5 class="quantity">QUENTITY</h5>
+            <h5 class="total">TOTAL</h5>----->
+        </div>
+        <div class="products">
+
+        </div>
+    </div>
+
+
+    <script src="main.js"></script>
+    <script type="module" src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.esm.js"></script>
+</body>
+</html>
